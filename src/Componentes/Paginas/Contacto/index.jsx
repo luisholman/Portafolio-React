@@ -18,9 +18,9 @@ function Contacto() {
                             </p>
                         </div>
                         <div className="input__box">
-                            <input type='text' className="contact name" placeholder="Tu Nombre " />
-                            <input type='text' className="contact email" placeholder="Tu Email " />
-                            <input type='text' className="contact subject" placeholder="Escribir Asunto " />
+                            <input type='text' className="contact name" placeholder="Tu nombre " />
+                            <input type='text' className="contact email" placeholder="Tu email " />
+                            <input type='text' className="contact subject" placeholder="Escribir asunto " />
                             <textarea name='message' id="message" placeholder="Escribir mensaje" ></textarea>
                             <button className="view__more contact pointer btn">Enviar</button>
                         </div>
