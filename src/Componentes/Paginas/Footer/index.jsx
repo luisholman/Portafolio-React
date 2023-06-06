@@ -19,7 +19,7 @@ const Footer =()=>{
                         <a href="https://wa.me/573144816697" target="_blank"><img src={whatsapp} alt="" /></a>
                     </div>
                     <div className="copy">
-                        <p>Copyright @ {new Date().getFullYear()} Todos los derechos Reservados Diseñado y Desarrollado por<strong> Luis oicata </strong>  </p>
+                        <p>Copyright @ {new Date().getFullYear()} Todos los derechos Reservados Diseñado y Desarrollado por<strong> Luis oicata jaime </strong>  </p>
                     
                     
                     </div>

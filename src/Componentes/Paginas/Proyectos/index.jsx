@@ -10,9 +10,8 @@ function Proyectos () {
          <div className="project component__space" id="Portfolio">
              <div className="heading">
                 <h1 className="heading">Mis Proyectos</h1>
-                <p className="heading p__color">There are many variations of passages of 
-                Lorem Ipsum avilable,</p>
-                <p className="heading p__color">but the majority have suffered alteration.</p>
+                <p className="heading p__color">Aqui Muestro algunos de mis proyectos realizados.</p>
+                <p className="heading p__color">Espero les guste</p>
              </div>
 
              <div className="container">
@@ -29,7 +28,7 @@ function Proyectos () {
                         <div className="project__meta absolute">
                             <h5 className="project__text">Development</h5>
                             <h4 className="project__text">Getting tickets to the big show</h4>
-                            <a href="Project" className="project__btn">View Details</a>
+                            <a href="Project" className="project__btn">Ver detalles</a>
                         </div>
                     </div>
                    </div>
@@ -45,7 +44,7 @@ function Proyectos () {
                         <div className="project__meta absolute">
                             <h5 className="project__text">Development</h5>
                             <h4 className="project__text">Getting tickets to the big show</h4>
-                            <a href="Project" className="project__btn">View Details</a>
+                            <a href="Project" className="project__btn">Ver detalles</a>
                         </div>
                     </div>
                    </div>
@@ -61,7 +60,7 @@ function Proyectos () {
                         <div className="project__meta absolute">
                             <h5 className="project__text">Development</h5>
                             <h4 className="project__text">Getting tickets to the big show</h4>
-                            <a href="Project" className="project__btn">View Details</a>
+                            <a href="Project" className="project__btn">Ver detalles</a>
                         </div>
                     </div>
                    </div>
@@ -77,7 +76,7 @@ function Proyectos () {
                         <div className="project__meta absolute">
                             <h5 className="project__text">Development</h5>
                             <h4 className="project__text">Getting tickets to the big show</h4>
-                            <a href="Project" className="project__btn">View Details</a>
+                            <a href="Project" className="project__btn">Ver detalles</a>
                         </div>
                     </div>
                    </div>
@@ -93,7 +92,7 @@ function Proyectos () {
                         <div className="project__meta absolute">
                             <h5 className="project__text">Development</h5>
                             <h4 className="project__text">Getting tickets to the big show</h4>
-                            <a href="Project" className="project__btn">View Details</a>
+                            <a href="Project" className="project__btn">Ver detalles</a>
                         </div>
                     </div>
                    </div>
@@ -109,13 +108,13 @@ function Proyectos () {
                         <div className="project__meta absolute">
                             <h5 className="project__text">Development</h5>
                             <h4 className="project__text">Getting tickets to the big show</h4>
-                            <a href="Project" className="project__btn">View Details</a>
+                            <a href="Project" className="project__btn">Ver detalles</a>
                         </div>
                     </div>
                    </div>
 
                    <div className="view__more__btn d__flex align__items__center justify__content__center pxy__30">
-                     <button className="view__more pointer btn">View more</button>
+                     <button className="view__more pointer btn">Ver mas</button>
                    </div>
 
                 </div>
