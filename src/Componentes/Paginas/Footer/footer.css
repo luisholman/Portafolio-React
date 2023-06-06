@@ -1,0 +1,44 @@
+footer{
+    width: 100%;
+    background-color: rgb(0, 76, 182);
+    height: 150px;
+}
+
+.footer {
+    background-color: rgb(0, 0, 0);
+    padding: 35px  ;
+    
+}
+
+
+.footer .iconos{
+
+    padding: 25px 150px ;
+
+}
+.footer .iconos img{
+    width: 60px;
+    margin: 25px;
+    padding: 3px 3px;
+    background-color: hsla(0, 0%, 100%, .2);
+    border-radius: 100px;
+    transition: 0.5s;
+}
+
+.footer .iconos img:hover{
+    background-color: #51d817;
+}
+
+.footer p{
+    color: #ffffff;
+    border-bottom: 1px rgba(198, 201, 216, .75);
+    
+}
+
+.footer p:hover{
+    color: #51d817;
+}
+
+
+
+
