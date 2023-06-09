@@ -9,7 +9,7 @@ function Proyectos () {
      return (
          <div className="project component__space" id="Portfolio">
              <div className="heading">
-                <h1 className="heading">Mis Proyectos</h1>
+                <h1 className="heading">Proyectos</h1>
                 <p className="heading p__color">Aqui Muestro algunos de mis proyectos realizados.</p>
                 <p className="heading p__color">Espero les guste</p>
              </div>

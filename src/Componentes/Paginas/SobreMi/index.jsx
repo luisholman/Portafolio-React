@@ -72,7 +72,7 @@ function SobreMi() {
 
 
                 <div className="skill">
-                    <h1 className="about__heading "> Mis hobbies</h1>
+                    <h1 className="about__heading "> Hobbies</h1>
                 </div>
                 <div className="iconos__skill">
 
