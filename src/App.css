@@ -44,6 +44,8 @@ p {
 .container {
    width: 80%;
    margin: 0px auto;
+   
+   
 } 
  
 .white {
@@ -56,11 +58,13 @@ p {
 
 .row {
    display: flex;
+
    width: 100%;
    flex-wrap: wrap;
    overflow: hidden;
    align-items: flex-start;
    justify-content: center;
+   
 }
 
 .col__2{
@@ -83,6 +87,7 @@ svg {
    margin-top: 10px;
 }
 
+
 button.btn {
    font-size: 18px;
    font-weight: 500;
@@ -98,6 +103,8 @@ button.btn {
 
 
 
+
+
 .p__color {
    color: rgba(198, 201, 216, .75);
    font-size: 18px;
@@ -106,7 +113,7 @@ button.btn {
 }
 
 button.about.btn.pointer:hover {
-   background: #2d8dfa;
+   background: #2d9afa;
    color: #ffffff !important;
    
 }
