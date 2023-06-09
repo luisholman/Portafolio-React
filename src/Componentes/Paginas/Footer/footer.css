@@ -168,7 +168,7 @@ footer{
     }
 
     .footer .iconos img{
-        width: 35px;
+        width: 34px;
         margin: 10px;
         padding: 3px 3px;
         background-color: hsla(0, 0%, 100%, .2);
@@ -180,7 +180,7 @@ footer{
     .footer p{
         color: #ffffff;
         border-bottom: 5px rgba(198, 201, 216, .75);
-        font-size: 15px;
+        font-size: 14px;
         text-align: center;
     }
 

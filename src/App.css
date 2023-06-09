@@ -146,6 +146,13 @@ button.about.btn.pointer:hover {
 }
 
 @media only screen and (max-width: 425px) {
+   .col__2 .contact__img{
+      display: none;
+   }
+   button.btn{
+      width: 100%;
+   }
+   
    .col__3 {
     max-width: 100%;
    }
