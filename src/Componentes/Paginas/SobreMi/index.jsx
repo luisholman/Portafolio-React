@@ -1,7 +1,14 @@
 import React from "react";
 import './About.css'
 import aboutImg from '../img/sobremi.png';
-import { Link } from "react-router-dom/cjs/react-router-dom.min";
+import diseñar from "../img/diseñar.svg";
+import musica from "../img/musica.svg";
+import game from "../img/game.svg";
+import caminar from "../img/caminar.svg";
+import programar from "../img/programar.svg";
+import Television from "../img/television.svg"
+
+
 
 function SobreMi() {
     window.addEventListener("scroll", function () {
@@ -34,9 +41,9 @@ function SobreMi() {
                                 
                             </p>
                             <div className="about__button d__flex align__items__center">
-                                <Link to="">
+                                <a download href="./Cv.pdf" >
                                     <button className="about btn pointer">Download CV</button>
-                                </Link>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -59,7 +66,47 @@ function SobreMi() {
                         </svg>
                     </Link>
                 </div>
+
+
     */}
+
+
+                <div className="skill">
+                    <h1 className="about__heading "> Mis hobbies</h1>
+                </div>
+                <div className="iconos__skill">
+
+                    <div className="img">
+                    <img src={programar} alt="" />
+                    <p>Programar</p>
+                    </div>
+
+                    <div className="img">
+                    <img src={diseñar} alt="" />
+                    <p>Diseñar</p>
+                    </div>
+
+                    <div className="img">
+                    <img src={musica} alt="" />
+                    <p>Oir Musica</p>
+                    </div>
+
+                    <div className="img">
+                    <img src={caminar} alt="" />
+                    <p>Caminar</p>
+                    </div>
+
+                    <div className="img">
+                    <img src={game} alt="" />
+                    <p>Jugar</p>
+                    </div>
+
+                    <div className="img">
+                    <img src={Television} alt="" />
+                    <p>Ver Television</p>
+                    </div>
+
+                </div>
             </div>
         </div>
     )

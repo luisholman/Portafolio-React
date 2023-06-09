@@ -10,7 +10,7 @@ const BgDatos =()=>{
           <div className="home__meta">
             
             <h2 className="frelencer_content">
-              Luis Oicata
+              Luis Oicata Jaime
               <br />
               <span className='desarrollo'> Desarrollador</span>
             </h2>

@@ -146,6 +146,7 @@
     
     background-color: #07548b1c;
     cursor: pointer;
+    
 
 }
 
@@ -160,6 +161,8 @@ h2.frelencer_content  {
     font-weight: 500;
     color: #ffffff;
     line-height: 1;
+    
+    
 
 }
 .frelencer_content .desarrollo{
@@ -201,8 +204,8 @@ h2.frelencer_content  {
     width: 100%;
     padding: 1px 1px;
     border: 5px solid #cecbcb67;
+    padding: 20px 0;
     
-
 }
 
 
