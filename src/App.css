@@ -144,8 +144,8 @@ button.about.btn.pointer:hover {
      }
      
 }
+@media (min-width: 280px) and (max-width: 425px){
 
-@media only screen and (max-width: 425px) {
    .col__2 .contact__img{
       display: none;
    }
@@ -158,4 +158,5 @@ button.about.btn.pointer:hover {
    }
    
 }
+
 

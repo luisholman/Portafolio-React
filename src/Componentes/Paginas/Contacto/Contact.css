@@ -63,3 +63,21 @@ button.view__more:hover {
     border: 2px solid  hsla(0, 0%, 100%, .2);
     color: #fff !important;
 }
+
+@media (min-width: 280px) and (max-width: 425px){
+    h1.hire__text{
+        font-size: 40px;
+    }
+ 
+    .component__space{
+        padding: 13px;
+    }
+    h1.about__heading{
+        font-size: 40px;
+    }
+ 
+    h1.heading{
+        font-size: 40px;
+    }
+ }
+ 

@@ -157,7 +157,7 @@ footer{
 
 }
 
-@media only screen and (max-width: 280px) {
+@media (min-width: 280px) and (max-width: 425px){
 
     .footer .iconos{
 
@@ -168,12 +168,10 @@ footer{
     }
 
     .footer .iconos img{
-        width: 34px;
+        width: 40px;
         margin: 10px;
         padding: 3px 3px;
-        background-color: hsla(0, 0%, 100%, .2);
-        border-radius: 100px;
-        transition: 0.5s;
+        
     }
 
 
