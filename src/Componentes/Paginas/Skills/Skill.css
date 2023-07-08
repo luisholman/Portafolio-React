@@ -16,8 +16,9 @@
     border-radius: 10px;
     width: 100%;
     background-color: #191919;
-    padding:35px;
+    padding:25px 20px;
     transition: .4s ease;
+    
 
  }
 
@@ -33,29 +34,23 @@
  .service__box:hover p.service__text .p__color {
           color: #fff !important;
  }
-
- .icon {
-    font-size: 54px;
-    font-weight: 400;
-    margin-bottom: 23px;
-    display: inline-flex;
-    color: #38d16a;
- }
-
+.service__box {
+   padding: 1px 10px;
+}
  .icon .img{
-   width: 7rem;
-   
-   align-items: center;
+   width: 6rem;
+   padding: 20px 0;
    
  }
 
  p.service__text.p__color {
     margin-bottom: 0;
+    
  }
 
  h1.service__text {
-    font-size: 19px;
-    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
     padding: 10px 0px;
     text-align: center;
     

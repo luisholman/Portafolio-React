@@ -54,7 +54,7 @@ a.bottom__to__top.active {
 }
 .iconos__skill{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     flex-wrap: wrap;
     width: 100%;
     cursor: pointer;
@@ -64,15 +64,15 @@ a.bottom__to__top.active {
 
 .iconos__skill .img{
 
-margin: 10px;
-padding: 30px;
+margin: 1px;
+padding: 1px;
 
 }
 
 .iconos__skill img {
     background-color: rgba(36, 36, 36, 0.04);
     padding: 20px 10px;
-    width: 9rem;
+    width: 7rem;
     border-radius: 10px ;   
 }
 
