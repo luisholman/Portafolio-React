@@ -99,3 +99,20 @@ padding: 30px;
         transition: .4s ease;
     }
 }
+
+
+@media only screen and (max-width: 425px) {
+    img.about__img {
+        display: none;
+        
+    }
+
+    .col__2{
+        margin-top: 20px;
+    }
+
+}
+
+
+
+
