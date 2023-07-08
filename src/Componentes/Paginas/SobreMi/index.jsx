@@ -27,8 +27,8 @@ function SobreMi() {
                         <div className="about__meta">
                             <p className="about__text p__color">
                                 Soy tecnólogo en Analisis y desarrollo de sistemas de informacion, siento un gran interés por la tecnólogia
-                                 y todo lo que viene de ella, soy alguien proactivo y Responsable que siempre busca fortalecer sus 
-                                 habilidades y conocimientos, tengo la capacidad de aprender facilmente.  me gusta adquirir conocimiento en nuevas tecnologias.
+                                 y todo lo que viene de ella, soy alguien proactivo y responsable que siempre busca fortalecer sus 
+                                 habilidades y conocimientos, tengo la capacidad de aprender facilmente.  Me gusta adquirir conocimiento en nuevas tecnologias.
 
                                 Tengo la capacidad de adaptarme facilmente a cualquier ambiente laboral. Para mí es muy importante la comunicación y colaboración en equipo,
                                   ya que así se llega a tener exito en los proyectos a realizar.
