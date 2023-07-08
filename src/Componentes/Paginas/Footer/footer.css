@@ -75,14 +75,15 @@ footer{
     
     }
 
-    .footer .iconos img{
-        width: 60px;
-        margin: 10px;
+    .footer .iconos a img{
+        width: 50px;
+        margin: 25px;
         padding: 3px 3px;
-        background-color: hsla(0, 0%, 100%, .2);
         border-radius: 100px;
         transition: 0.5s;
     }
+
+   
 
 
     .footer p{
@@ -103,6 +104,8 @@ footer{
         justify-content: space-between;
     
     }
+
+    
 
  
 
