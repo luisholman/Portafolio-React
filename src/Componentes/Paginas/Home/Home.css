@@ -178,7 +178,7 @@ h2.frelencer_content  {
 
 .home__bg .img{
     position:relative;
-    top:  175px;
+    top:  195px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -186,7 +186,7 @@ h2.frelencer_content  {
 }
 
 .home__bg img{
-    width: 110px;
+    width: 150px;
     border-radius: 100px;
 }
 

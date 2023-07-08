@@ -2,7 +2,7 @@ import { useState } from 'react';
 import './Home.css';
 import { Link } from 'react-router-dom';
 import logo from '../img/logo.png'
-import about from '../img/about1.jpg'
+
 
 function Home() {
   window.addEventListener("scroll", function () {

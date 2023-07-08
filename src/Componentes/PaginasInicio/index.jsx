@@ -1,5 +1,4 @@
 import React from "react";
-import Home from "../Paginas/Home/Home";
 import SobreMi from "../Paginas/SobreMi";
 import Proyectos from "../Paginas/Proyectos";
 import Servicios from "../Paginas/Skills";
