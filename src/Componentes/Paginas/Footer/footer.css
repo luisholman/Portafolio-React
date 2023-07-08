@@ -93,7 +93,7 @@ footer{
 }
 
 
-@media (max-width: 950px) {
+@media (max-width: 990px) {    /*estaba en 950*/
     .footer .iconos{
 
         padding: 25px 300px ;
