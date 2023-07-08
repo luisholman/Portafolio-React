@@ -2,7 +2,7 @@ import React from "react";
 import Home from "../Paginas/Home/Home";
 import SobreMi from "../Paginas/SobreMi";
 import Proyectos from "../Paginas/Proyectos";
-import Servicios from "../Paginas/Servicios";
+import Servicios from "../Paginas/Skills";
 import Contacto from "../Paginas/Contacto";
 import BgDatos from "../Paginas/BgDatos";
 

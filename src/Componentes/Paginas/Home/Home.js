@@ -19,7 +19,7 @@ function Home() {
           <Link to='/'>Pagina Principal</Link>
           <Link to='/SobreMi'>Sobre Mi</Link>
           <Link to='/Proyectos'>Portafolio</Link>
-          <Link to='/Servicios'>Servicios</Link>
+          <Link to='/Skills'>Skills</Link>
           <Link to='/Contacto'>Contacto</Link>
         </div>
         <div className={`nav-toggle ${isOpen && "open"}`}

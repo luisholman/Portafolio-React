@@ -1,16 +1,16 @@
 import React from "react";
 import './Service.css';
 
-function Servicios ()  {
+function Skills ()  {
     return (
         <div className="service component__space" id="Services">
             <div className="heading">
-                <h1 className="heading">Mis Servicios</h1>
+                <h1 className="heading">Mis Habilidades</h1>
                 <p className="heading p__color">
-                    There are many variations of passages of Lorem Ipsum available,
+                    Aqui te muestro mis Fortalezas
                 </p>
                 <p className="heading p__color">
-                    but the majority have suffered alteration,
+                    
                 </p>
             </div>
 
@@ -229,5 +229,5 @@ function Servicios ()  {
     )
 }
 
-export default Servicios;
+export default Skills;
  
