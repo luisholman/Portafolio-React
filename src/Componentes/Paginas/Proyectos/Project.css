@@ -94,4 +94,26 @@
      h4.project__text {
         font-size: 18px;
      }
+
+
+    .col__3 {
+      max-width: 100%;
+      display: flex;
+      padding: 50px;
+      justify-content: center;
+      flex-direction: column;
+      margin-top: 20px;
+      
+   }
+
+     
+}
+
+@media (min-width: 280px) and (max-width: 425px){
+
+   .col__3 {   
+      padding: 10px; 
+   }
+   
+  
 }

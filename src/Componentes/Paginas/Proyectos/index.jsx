@@ -25,7 +25,7 @@ function Proyectos () {
                             <div className="mask__effect"></div>
                         </div>
                         <div className="project__meta absolute">
-                            <h5 className="project__text">Desarrollo</h5>
+                            
                             <h4 className="project__text">Encriptador de Texto</h4>
                             <a href="https://luisholman.github.io/Encriptador-Alura/" target="_blank" className="project__btn">Ver detalles</a>
                         </div>
@@ -41,7 +41,7 @@ function Proyectos () {
                             <div className="mask__effect"></div>
                         </div>
                         <div className="project__meta absolute">
-                            <h5 className="project__text">Desarrollo</h5>
+                            {/*<h5 className="project__text">Desarrollo</h5>*/}
                             <h4 className="project__text">Mini Alura</h4>
                             <a href="https://luisholman.github.io/Flexbox-posicionamiento-en-pantalla/#" target="_blank" className="project__btn">Ver detalles</a>
                         </div>
@@ -57,7 +57,7 @@ function Proyectos () {
                             <div className="mask__effect"></div>
                         </div>
                         <div className="project__meta absolute">
-                            <h5 className="project__text">Desarrollo</h5>
+                            
                             <h4 className="project__text">Recetario</h4>
                             <a href="https://luisholman.github.io/web-tienda/" target="_blank" className="project__btn">Ver detalles</a>
                         </div>
